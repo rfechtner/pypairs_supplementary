@@ -11,7 +11,7 @@ This is the supplementary for the Bachelor's Thesis on Maschine learning methods
 
 Here you will find the a digital copy of the thesis, the codes, data, images, restul tables and juypter notebooks. Most of the chapters have a associated jupyter notebook file within the notebook folder that shows how the results were generated. This Readme is an example of such an notebook. All code can be directly executed or modified. For further information please see: http://jupyter.readthedocs.io/en/latest/index.html
 
-If you don't want to install juypter notebook on your local machine you can visit http://nbviewer.jupyter.org/github/rfechtner/pypairs/tree/master/supplementary/notebooks/ for a online view (read only).
+If you don't want to install juypter notebook on your local machine you can visit http://nbviewer.jupyter.org/github/rfechtner/pypairs_supplementary/tree/master/notebooks/ for a online view (read only).
 
 The general structure of this folder is:
 
