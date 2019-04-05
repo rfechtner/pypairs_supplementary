@@ -1,5 +1,5 @@
 
-![Test](./images/general/logos_combined.png)
+![Test](https://github.com/rfechtner/pypairs_supplementary/blob/master/images/general/logos_combined.PNG)
 
 # Maschine learning methods for predicting cell-cycle phase from scRNA-Seq data
 
